@@ -1,4 +1,5 @@
 const NUMBER_MAX = 20_000;
+
 class Decoder {
 	constructor(buffer) {
 		this._buffer = buffer;
